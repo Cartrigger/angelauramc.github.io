@@ -14,4 +14,4 @@ OptiFine, previously known as Optimine and OptiFog; is a Minecraft modification 
 
 
 ## Get the most of your device
-A github issue has been raised which consists of the ways to get the highest fps possible. [Click Here](https://github.com/PojavLauncherTeam/PojavLauncher/issues/6432)
+A GitHub issue has been raised which consists of the ways to get the highest fps possible. [Click Here](https://github.com/PojavLauncherTeam/AmethystLauncher/issues/6432)

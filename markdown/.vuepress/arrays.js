@@ -17,7 +17,7 @@ const android_FAQ = {
     "32BIT", // Platform and performance limitations (32bit).
     "FFMPEG", // Setting up FFMPEG, for Replay Mod.
     "SHADERS", // Look what we got here.
-    "RENDERERS", // I have no idea what they do and why PojavLauncher needs it.
+    "RENDERERS", // I have no idea what they do and why AmethystLauncher needs it.
   ],
 };
 
@@ -28,7 +28,7 @@ const ios_FAQ = {
   path: "ios", // Do not add a trailing slash here unless this also has a child nested in it with its own path
   children: [
     "JIT", // iOS and "JIT".
-    "APPSTORE", // Will PojavLauncher ever come to App Store for iOS?
+    "APPSTORE", // Will AmethystLauncher ever come to App Store for iOS?
     "KEYCHAIN-ERR", // "Failed to save account tokens to keychains"
   ],
 };
@@ -54,11 +54,11 @@ export const Getting_Started = {
   path: "/wiki/getting_started/",
   collapsable: true,
   children: [
-    "INSTALL", // Installing PojavLauncher.
-    "BUILD-FROM-SOURCE", // Building PojavLauncher from source.
+    "INSTALL", // Installing AmethystLauncher.
+    "BUILD-FROM-SOURCE", // Building AmethystLauncher from source.
     "SIGN-IN", // Signing in.
     "CUSTOM-CONTROLS", // Customizing the on-screen controls.
-    "SOCIALMEDIA", // Official PojavLauncher social medias.
+    "SOCIALMEDIA", // Official AmethystLauncher social medias.
   ],
 };
 
@@ -87,14 +87,14 @@ export const about = [
 
 export const contribute = [
   "CONT-WEBSITE", // Contributing to this website.
-  "CONT-TRANSLATIONS", // Contributing to PojavLauncher translations, hopefully website translations later on.
+  "CONT-TRANSLATIONS", // Contributing to AmethystLauncher translations, hopefully website translations later on.
 ];
 
 export const patchnotes = [
   "changelogs/ANDROID",
   "changelogs/IOS",
-  "UNJAIL", // Bringing PojavLauncher to unjailbroken iOS.
-  "IOS-SUPPORT", // System support in future versions of PojavLauncher iOS.
+  "UNJAIL", // Bringing AmethystLauncher to unjailbroken iOS.
+  "IOS-SUPPORT", // System support in future versions of AmethystLauncher iOS.
   "LOCAL-MODE", // Offline mode is going places.
 ];
 
@@ -126,7 +126,7 @@ export const GroupOrder = [
 /** This is just the regular vuepress nav configuration but it's in here instead of config.js because it looks nicer that way */
 export const NavBar = [
   { text: "Wiki", link: "/wiki/" },
-  { text: "About Pojavlauncher", link: "/about/DEVICES" },
+  { text: "About AmethystLauncher", link: "/about/DEVICES" },
   { text: "Contributing", link: "/contribute/CONT-TRANSLATIONS" },
   { text: "Recent Updates", link: "/patchnotes/IOS-SUPPORT" },
 ];

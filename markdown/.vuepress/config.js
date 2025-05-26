@@ -5,7 +5,7 @@ const { sidebar } = vuepressBar({
 });
 
 module.exports = {
-  title: "PojavLauncher",
+  title: "AmethystLauncher",
   description:
     "A flexible, fast and open-source Minecraft Java Edition launcher for Android and iOS",
   head: [

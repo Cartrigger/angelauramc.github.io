@@ -1,4 +1,4 @@
-# PojavLauncher Website Archives
+# AmethystLauncher Website Archives
 To keep up with changes in PojavLauncher's lifecycle, various pages will be archived if they are no longer updated and no longer relevant. These pages can be accessed by adding `/archived_pages` to the end of the domain name.
 
 Pages currently in the archive:

@@ -4,9 +4,9 @@
 
 * You can try building on Android with [Termux](https://termux.dev), but no support will be included for it.
 
-* It is recommended to clone the PojavLauncher repository before starting [Setting Up JRE](BUILD_FROM_SOURCE.html#setting-up-jre)
+* It is recommended to clone the AmethystLauncher repository before starting [Setting Up JRE](BUILD_FROM_SOURCE.html#setting-up-jre)
 
-* ```git clone https://github.com/PojavLauncherTeam/PojavLauncher```
+* ```git clone https://github.com/AngelAuraMC/Amethyst-Android```
 
 ## Setting up JRE
 

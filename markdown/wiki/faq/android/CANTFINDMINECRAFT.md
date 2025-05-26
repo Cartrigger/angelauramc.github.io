@@ -7,9 +7,9 @@ As with the log file, there are mutiple ways to do this.
 
 1. Install [Files by Marc apps & software](https://play.google.com/store/apps/details?id=com.marc.files) from Play Store.
 2. Press the 3 dots in the top right corner → **Show hidden files**
-3. Press the 3 lines in the top left corner → PojavLauncher → .minecraft
+3. Press the 3 lines in the top left corner → AmethystLauncher → .minecraft
 
-If PojavLauncher does not appear in the 3 lines menu, try closing (or opening) Pojav. If that doesn't work, try restarting your phone.
+If AmethystLauncher does not appear in the 3 lines menu, try closing (or opening) Pojav. If that doesn't work, try restarting your phone.
 You can also use [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) (or [MiXplorer](https://mixplorer.com/)) with [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=en_US) to access it.
 
 
