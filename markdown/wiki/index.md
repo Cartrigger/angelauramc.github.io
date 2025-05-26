@@ -1,7 +1,8 @@
 
-# Welcome to the PojavLauncher Wiki!
+# Welcome to the Amethyst Launcher Wiki!
+As we migrate, please [mind the gaps!](https://github.com/AngelAuraMC/angelauramc.github.io/blob/main/README.md)
 ____
-* Get started by [installing Pojavlauncher](./getting_started/INSTALL)!
+* Get started by [installing Ametheyst Launcher](./getting_started/INSTALL)!
 * Got a question? Check out our [FAQ](./faq/INSTALLATIONOFMODSRPWORLDS)!
-* Wanna contribute to the project? [Look here](../contribute/CONT-WEBSITE.md)
+* Want to contribute to the project? [Look here](../contribute/CONT-WEBSITE.md)
 

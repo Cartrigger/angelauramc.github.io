@@ -3,7 +3,7 @@ Minecraft runs on OpenGL, and mobile devices generally only support OpenGL ES (G
 > All of the following renderers were tested using the same environment; Minecraft 1.21.1 with Optifine, 8 chunks, running on a Snapdragon 778g at 80% resolution scale, with Fast graphics and smooth lighting.
 
 ## Holy GL4ES
-- Optimized for performance, Holy GL4ES is the default renderer in PojavLauncher and should be used in almost all scenrarios. 
+- Optimized for performance, Holy GL4ES is the default renderer in AmethystLauncher and should be used in almost all scenrarios. 
 - Supports OpenGL 2.1 and has shader converting capabilities, thus makes up for about 1/8 of the OpenGL 3.x standard.
 - Works on all versions of vanilla Minecraft.
 ### A screenshot of Holy GL4ES running Minecraft 1.21.1
@@ -39,7 +39,7 @@ As of Galdiolus release, ANGLE renderer has been removed/replaced with LTW, We h
 **will** face crashes when using Zink.
 - Works on all vanilla versions of Minecraft.
 
-> On the current version of PojavLauncher, Mali with Vulkan 1.1 or some Vulkan 1.3 driver (need more testers with Mali Vulkan 1.3 devices). cannot run Minecraft 1.16.5 and below with Zink due to Mali driver issue with Mesa 23.2.0-devel (MESA_GL_VERSION_OVERRIDE=<api version> (See https://pojavlauncher.app/wiki/faq/android/ZINKNOTWORKING.html). will not fix this issue)
+> On the current version of AmethystLauncher, Mali with Vulkan 1.1 or some Vulkan 1.3 driver (need more testers with Mali Vulkan 1.3 devices). cannot run Minecraft 1.16.5 and below with Zink due to Mali driver issue with Mesa 23.2.0-devel (MESA_GL_VERSION_OVERRIDE=<api version> (See https://pojavlauncher.app/wiki/faq/android/ZINKNOTWORKING.html). will not fix this issue)
 > (*) Most Mali GPUs can only run OpenGL 3.1
 
 ### A screenshot of Zink running Minecraft 1.21.1

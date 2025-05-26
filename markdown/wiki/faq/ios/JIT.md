@@ -7,16 +7,16 @@ On Apple's mobile platforms (iOS, iPadOS, and _tvOS*_ in our case), a security f
 
 (*) - tvOS support coming soon!
 
-## What does this mean for PojavLauncher?
+## What does this mean for AmethystLauncher?
 
 ### Jailbroken devices
-Users with Jailbroken devices don't need to worry about JIT requirements, as PojavLauncher is specially built to detect jailbreaks and automatically enable JIT.
+Users with Jailbroken devices don't need to worry about JIT requirements, as AmethystLauncher is specially built to detect jailbreaks and automatically enable JIT.
 
 ### Unjailbroken devices
-Users with Unjailbroken devices can see two different outcomes, based on what they used to sideload PojavLauncher.
+Users with Unjailbroken devices can see two different outcomes, based on what they used to sideload AmethystLauncher.
 
 #### TrollStore
-If you used TrollStore to sideload PojavLauncher, good news: PojavLauncher takes advantage of the extended entitlements granted by TrollStore and automatically enables JIT when launched. **(Turn on URL Schemes)**
+If you used TrollStore to sideload AmethystLauncher, good news: AmethystLauncher takes advantage of the extended entitlements granted by TrollStore and automatically enables JIT when launched. **(Turn on URL Schemes)**
 
 #### Normal sideload
 If you sideload normally, you will need to enable JIT in some way. The most common method is to attach a debug server to the application while it's running - AltStore, SideStore, SideJITServer, and Jitterbug all of these use this method to enable JIT. 
@@ -29,7 +29,7 @@ The only downside to this method is that you are required to be connected to a W
 
 The methods to enable JIT can be found [here](https://github.com/ItAnthon/JIT-on-iOS).
 
-Methods not listed here are not confirmed or recommended by us for use with PojavLauncher.
+Methods not listed here are not confirmed or recommended by us for use with AmethystLauncher.
 
 ## So how do I enable JIT?
 

@@ -1,4 +1,4 @@
-# System support in future versions of PojavLauncher iOS
+# System support in future versions of AmethystLauncher iOS
 *This announcement will be covering the next 3 releases of PojavLauncher iOS.*
 
 We've made some great strides with the iOS port of PojavLauncher: fixing [1.17 and newer](./OGL32.md), bringing [OpenJDK 8 to iOS](./JDK8.md), and now unveiling an [jailed variant](./UNJAIL.md). However, all of the advancements we're making also stirred up old conversations, and we've come to a final conclusion: 
