@@ -19,7 +19,7 @@ Chromebooks have very similar system requirements, however Android version does 
 
 ### Linux
 
-It is not recommended to run AmethystLauncher on Linux. Though, you can try sideloading the app on your distribution by using Anbox or Waydroid. We won't provide support for it though.
+It is not recommended to run Amethyst on Linux. Though, you can try sideloading the app on your distribution by using Anbox or Waydroid. We won't provide support for it though.
 - Installing Anbox
   - on Ubuntu (`snap` is required);
   ```

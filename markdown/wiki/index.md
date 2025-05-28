@@ -1,5 +1,5 @@
 
-# Welcome to the Amethyst Launcher Wiki!
+# Welcome to the Amethyst Wiki!
 As we migrate, please [mind the gaps!](https://github.com/AngelAuraMC/angelauramc.github.io/blob/main/README.md)
 ____
 * Get started by [installing Ametheyst Launcher](./getting_started/INSTALL)!

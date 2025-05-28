@@ -23,7 +23,7 @@
 
 2. Download the [BTW Installer](https://github.com/BTW-Community/legacy-fabric-installer/releases/tag/1.1.1-btw).
 
-3. Go into AmethystLauncher, execute the .jar and install it.
+3. Go into Amethyst, execute the .jar and install it.
 
 4. Launch the game (should crash that’s normal).
 

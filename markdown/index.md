@@ -1,9 +1,9 @@
 ---
 home: true
 icon: home
-title: Amethyst Launcher
+title: Amethyst
 heroImage: /logo.png
-heroText: AmethystLauncher
+heroText: Amethyst
 tagline: A flexible, fast and open-source Minecraft Java Edition launcher for Android and iOS
 actionText: Get Started →
 actionLink: /wiki/ # Link to Table of Contents

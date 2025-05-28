@@ -1,7 +1,7 @@
 # Installing the launcher
 
 ## Android
-Instructions for installing AmethystLauncher on Android devices.
+Instructions for installing Amethyst on Android devices.
 
 ::: details Google Play
 You can grab PojavLauncher from the Google Play Store [here.](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch)
@@ -16,7 +16,7 @@ If you want the latest and greatest to test before the official release, you can
 
 **Using Github (requires an account):**
 
-1. Start off by heading to the [AmethystLauncher](https://github.com/AngelAuraMC/Amethyst-Android) repository and switching to the "Actions" tab.
+1. Start off by heading to the [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android) repository and switching to the "Actions" tab.
 
 ![](./images/Actions/android/Android-Actions-1.png)
 
@@ -42,7 +42,7 @@ If you want the latest and greatest to test before the official release, you can
 :::
 
 ## iOS
-Instructions for installing AmethystLauncher on Apple devices.
+Instructions for installing Amethyst on Apple devices.
 
 ::: details Sideloading (TrollStore)
 We recommend TrollStore for all users if possible. This method allows for automatic JIT enabling, more memory allocation, and non-revoking installs.
@@ -81,15 +81,15 @@ You can now enjoy Minecraft: Java Edition on your iDevice!
 ::: details Sideloading (Jailed)
 **Requires an active Apple ID, that has signed into the [Apple Developer Program](https://developer.apple.com/account).**
 
-AmethystLauncher supports being sideloaded with AltStore and SideStore. Instructions to use SideStore are below--for other options, refer to their documentation.
+Amethyst supports being sideloaded with AltStore and SideStore. Instructions to use SideStore are below--for other options, refer to their documentation.
 
 1. Follow the official guide on installing AltStore itself:
     - Instructions for [Mac](https://docs.sidestore.io/docs/getting-started/mac) and [Windows](https://docs.sidestore.io/docs/getting-started/windows)
     
-2. Install the latest release using this [Install with SideStore](sidestore://install?url=https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/latest/download/net.kdt.AmethystLauncher.ipa) button.
+2. Install the latest release using this [Install with SideStore](sidestore://install?url=https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/latest/download/net.kdt.Amethyst.ipa) button.
     - For a specific release, you can find its button on the [Releases](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases) page
 
-Installing AmethystLauncher is not the end for Jailed iOS devices. In order to play Minecraft itself, you will need to [enable JIT](../faq/ios/JIT.md).
+Installing Amethyst is not the end for Jailed iOS devices. In order to play Minecraft itself, you will need to [enable JIT](../faq/ios/JIT.md).
 :::
 
 ::: details Sideloading (Jailbroken)

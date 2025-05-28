@@ -6,7 +6,7 @@ Popular examples of these can be found on both the [Modrinth](https://modrinth.c
 ## Official Modpacks from PojavLauncherTeam
 N/A
 
-These modpacks are specially made for AmethystLauncher, but it doesn't mean you can't try them on PC too!
+These modpacks are specially made for Amethyst, but it doesn't mean you can't try them on PC too!
 
 # Installing Modpacks
 

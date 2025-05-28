@@ -1,3 +1,3 @@
-# AmethystLauncher Android
+# Amethyst Android
 
 ### TODO

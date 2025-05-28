@@ -1,6 +1,6 @@
 # Supported Minecraft versions
 
-With each new Minecraft release comes the question: *Will it play nice with AmethystLauncher?*
+With each new Minecraft release comes the question: *Will it play nice with Amethyst?*
 
 Thanks to the hard work from PojavLauncherTeam, both the Android and the iOS port now cover most Minecraft versions...
 

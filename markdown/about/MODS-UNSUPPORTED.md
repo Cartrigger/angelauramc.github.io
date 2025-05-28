@@ -1,5 +1,5 @@
 # Unsupported Mods and Clients (+ Workarounds/Fixes)
-Not everything that works on PC works on AmethystLauncher. Below is a non-exhaustive list of mods that **may** not work, along with fixes or workarounds.
+Not everything that works on PC works on Amethyst. Below is a non-exhaustive list of mods that **may** not work, along with fixes or workarounds.
 
 ## Performance Mods + Shaders
 - [Sodium](https://modrinth.com/mod/sodium)

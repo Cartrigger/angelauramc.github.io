@@ -1,9 +1,9 @@
-# How to install mods, Resource packs and worlds into AmethystLauncher
+# How to install mods, Resource packs and worlds into Amethyst
 
  ## Mods
 1. Click on the "Create new profile" button in the version selector.
 2. Select a modding platform you want your mods to be, install any version you want.
-3. In the AmethystLauncher menu, you will see "game directory" button, click it.
+3. In the Amethyst menu, you will see "game directory" button, click it.
 4. You will be automatically redirected to `.minecraft` folder.
 5. Inside you will find the `mods` folder.
 6. Paste your mods there.
@@ -18,13 +18,13 @@
 ```
 
  ## Resource packs 
-1. In the AmethystLauncher menu, you will see "game directory" button, click it.
+1. In the Amethyst menu, you will see "game directory" button, click it.
 2. You will be automatically redirected to `.minecraft` folder.
 3. Inside you will find the `resourcepacks` folder.
 4. Paste your resource packs there.
 
 ## Worlds
-1. In the AmethystLauncher menu, you will see "game directory" button, click it.
+1. In the Amethyst menu, you will see "game directory" button, click it.
 2. You will be automatically redirected to `.minecraft` folder.
 3. Inside you will find the `saves` folder.
 4. Paste your world there.

@@ -17,7 +17,7 @@ const android_FAQ = {
     "32BIT", // Platform and performance limitations (32bit).
     "FFMPEG", // Setting up FFMPEG, for Replay Mod.
     "SHADERS", // Look what we got here.
-    "RENDERERS", // I have no idea what they do and why AmethystLauncher needs it.
+    "RENDERERS", // I have no idea what they do and why Amethyst needs it.
   ],
 };
 
@@ -28,7 +28,7 @@ const ios_FAQ = {
   path: "ios", // Do not add a trailing slash here unless this also has a child nested in it with its own path
   children: [
     "JIT", // iOS and "JIT".
-    "APPSTORE", // Will AmethystLauncher ever come to App Store for iOS?
+    "APPSTORE", // Will Amethyst ever come to App Store for iOS?
     "KEYCHAIN-ERR", // "Failed to save account tokens to keychains"
   ],
 };
@@ -54,11 +54,11 @@ export const Getting_Started = {
   path: "/wiki/getting_started/",
   collapsable: true,
   children: [
-    "INSTALL", // Installing AmethystLauncher.
-    "BUILD-FROM-SOURCE", // Building AmethystLauncher from source.
+    "INSTALL", // Installing Amethyst.
+    "BUILD-FROM-SOURCE", // Building Amethyst from source.
     "SIGN-IN", // Signing in.
     "CUSTOM-CONTROLS", // Customizing the on-screen controls.
-    "SOCIALMEDIA", // Official AmethystLauncher social medias.
+    "SOCIALMEDIA", // Official Amethyst social medias.
   ],
 };
 
@@ -87,14 +87,14 @@ export const about = [
 
 export const contribute = [
   "CONT-WEBSITE", // Contributing to this website.
-  "CONT-TRANSLATIONS", // Contributing to AmethystLauncher translations, hopefully website translations later on.
+  "CONT-TRANSLATIONS", // Contributing to Amethyst translations, hopefully website translations later on.
 ];
 
 export const patchnotes = [
   "changelogs/ANDROID",
   "changelogs/IOS",
-  "UNJAIL", // Bringing AmethystLauncher to unjailbroken iOS.
-  "IOS-SUPPORT", // System support in future versions of AmethystLauncher iOS.
+  "UNJAIL", // Bringing Amethyst to unjailbroken iOS.
+  "IOS-SUPPORT", // System support in future versions of Amethyst iOS.
   "LOCAL-MODE", // Offline mode is going places.
 ];
 
@@ -126,7 +126,7 @@ export const GroupOrder = [
 /** This is just the regular vuepress nav configuration but it's in here instead of config.js because it looks nicer that way */
 export const NavBar = [
   { text: "Wiki", link: "/wiki/" },
-  { text: "About AmethystLauncher", link: "/about/DEVICES" },
+  { text: "About Amethyst", link: "/about/DEVICES" },
   { text: "Contributing", link: "/contribute/CONT-TRANSLATIONS" },
   { text: "Recent Updates", link: "/patchnotes/IOS-SUPPORT" },
 ];

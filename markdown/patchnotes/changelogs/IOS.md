@@ -1,3 +1,3 @@
-# AmethystLauncher iOS
+# Amethyst iOS
 
 ### TODO

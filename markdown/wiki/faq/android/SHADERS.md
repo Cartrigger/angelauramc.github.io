@@ -1,5 +1,5 @@
 # Shaders
-The LTW renderer brings up a decent shader compatibility, which means AmethystLauncher now supports shaders made for Iris or Optifine. Here are a few list of shaders that work on LTW
+The LTW renderer brings up a decent shader compatibility, which means Amethyst now supports shaders made for Iris or Optifine. Here are a few list of shaders that work on LTW
 
 ✅ No Bugs
 ⚠️ Minor Bugs

@@ -1,15 +1,15 @@
-# AmethystLauncher's 32-bit support
+# Amethyst's 32-bit support
 Most of you, Android users, who are reading this now, won't be bothered by this documentation, but for the poor souls who have a 32-bit device, let's press ~~L~~ F to pay respects to them.
 
 ARM transitioned into the modern `arm64/aarch64` architecture, which significantly improved utilization and stability compared to its widely used predecessor, `arm/aarch32`, while also maintaining compatibility using code blocks for parity between both architectures.
 
 We won't get into much detail regarding it, but if you'd like to learn more about it have a read of [this documentary about the ARM platform.](https://en.m.wikipedia.org/wiki/ARM_architecture_family)
 
-**You may encounter issues while using AmethystLauncher on 32-bit devices. Here's a list of things that are known to be problematic:**
+**You may encounter issues while using Amethyst on 32-bit devices. Here's a list of things that are known to be problematic:**
 
 ## RAM Allocation
 
-**Real 32-bit devices (32-bit hardware and firmware), can't allocate more than 768MB of RAM to AmethystLauncher. This CAN'T be changed even if the device has extra RAM to spare.**
+**Real 32-bit devices (32-bit hardware and firmware), can't allocate more than 768MB of RAM to Amethyst. This CAN'T be changed even if the device has extra RAM to spare.**
 
 * Examples of real 32-bit SoCs: Qualcomm Snapdragon 801, 800, 600, 400, S4, S3, S2, S1, etc.
 
