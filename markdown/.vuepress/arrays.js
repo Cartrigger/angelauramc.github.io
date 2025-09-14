@@ -6,7 +6,7 @@ const android_FAQ = {
   path: "android", // Do not add a trailing slash here unless this also has a child nested in it with its own path
   children: [
     "PARSINGERROR", // "Error while parsing the package" error fix.
-    "REFUSALOFINSTALL", // "App not installed" error fix (very uncommon).
+    // "REFUSALOFINSTALL", // "App not installed" error fix (very uncommon).
     "CANTFINDLOG", // Can't find the log file (non-root).
     "CANTFINDMINECRAFT", // Can't find .minecraft (non-root).
     "ZINKNOTWORKING", // Zink doesn't work.

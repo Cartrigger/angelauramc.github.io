@@ -24,3 +24,6 @@ package-lock.json
 .editorconfig
 .nvmrc
 out
+
+# Here for historical reasons, don't modify them
+archived_pages
