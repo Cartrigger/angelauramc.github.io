@@ -76,6 +76,9 @@ Note: **Enable URL Schemes in TrollStore settings: TrollStore -> Settings -> Scr
 
 You can now enjoy Minecraft: Java Edition on your iDevice!
 :::
+::: warning
+ Everything below are outdated instructions. Please avoid using them.
+:::
 <!-- TODO: fix the rest of IOS i am not touching sidestore shit :sob: -->
 ::: details Sideloading (Jailed)
 **Requires an active Apple ID, that has signed into the [Apple Developer Program](https://developer.apple.com/account).**
