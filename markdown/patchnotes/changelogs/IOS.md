@@ -1,3 +1,8 @@
+# Angel Aura Amethyst (iOS)
+
+## 1.0 
+You're helping to shape our future while we work to build a release.
+
 # PojavLauncher iOS
 
 ## 2.2 "Deepslate"

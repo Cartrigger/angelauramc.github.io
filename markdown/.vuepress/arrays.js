@@ -79,6 +79,7 @@ export const Going_Further = {
 //// These are used to change the sidebar of their corresponding navbar counterpart. These don't use sidebar groups, instead they use the header as the title of the sidebar group (see Vuepress Documentation for more information on this behaviour). These sections are simple enough to not need custom shenanigans.
 
 export const about = [
+  "NOTE-FROM-EVA", // Note from Eva on legality of Amethyst, don't modify it pls
   "LEGAL", // Legal + Security.
   "DEVICES", // Supported Devices.
   "MCVERS", // Supported Minecraft Versions.
@@ -93,9 +94,6 @@ export const contribute = [
 export const patchnotes = [
   "changelogs/ANDROID",
   "changelogs/IOS",
-  "UNJAIL", // Bringing PojavLauncher to unjailbroken iOS.
-  "IOS-SUPPORT", // System support in future versions of PojavLauncher iOS.
-  "LOCAL-MODE", // Offline mode is going places.
 ];
 
 // Configuration Arrays
@@ -126,7 +124,7 @@ export const GroupOrder = [
 /** This is just the regular vuepress nav configuration but it's in here instead of config.js because it looks nicer that way */
 export const NavBar = [
   { text: "Wiki", link: "/wiki/" },
-  { text: "About Pojavlauncher", link: "/about/DEVICES" },
+  { text: "About Amethyst", link: "/about/DEVICES" },
   { text: "Contributing", link: "/contribute/CONT-TRANSLATIONS" },
   { text: "Recent Updates", link: "/patchnotes/IOS-SUPPORT" },
 ];

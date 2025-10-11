@@ -5,9 +5,9 @@ const { sidebar } = vuepressBar({
 });
 
 module.exports = {
-  title: "PojavLauncher",
+  title: "AngelAuraMC",
   description:
-    "A flexible, fast and open-source Minecraft Java Edition launcher for Android and iOS",
+    "A team of people working to bring Minecraft: Java Edition to new heights.",
   head: [
     [
       "meta",
@@ -80,12 +80,12 @@ module.exports = {
   themeConfig: {
     displayAllHeaders: false,
     lastUpdated: true,
-    repo: "https://github.com/PojavLauncherTeam/PojavLauncherTeam.github.io/",
+    repo: "https://github.com/AngelAuraMC/angelauramc.github.io/",
     docsDir: "markdown",
     docsBranch: "main",
     editLinks: true,
     editLinkText: "Help us improve this page!",
-    logo: "/logo.png",
+    logo: "https://assets.angelauramc.dev/angelauramc/logo_512x512.png",
     sidebar: SideBar,
     nav: NavBar,
   },

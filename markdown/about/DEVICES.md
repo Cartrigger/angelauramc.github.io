@@ -7,12 +7,12 @@
 - 75% Resolution
 ## Android
 
-### Minimum requirements:
+### Minimum requirements
 - Qualcomm Snapdragon 460 (or equivalent)
 - Android 5.0
 - 1GB RAM
 
-### Recommended requirements:
+### Recommended requirements
 - Qualcomm Snapdragon 855 (or equivalent)
 - Android 8.0 and newer
 - 6GB RAM or higher
@@ -23,12 +23,11 @@
 ## iOS
 
 ### Minimum requirements:
-- Apple A8/A8X SoC
-- iOS 14/iPadOS 14 or higher
-   - iOS/iPadOS 12 & 13 is losing support in PojavLauncher 2.3.
+- Apple A8 or A8X SoC
+- iOS or iPadOS 14
 - 2GB RAM
 
-### Recommended requirements:
-- Apple A14/A12X Bionic SoC
-- iOS/iPadOS 14 or higher
+### Recommended requirements
+- Apple A12X, A12Z, or A14 Bionic SoC or later
+- iOS or iPadOS 15 and higher
 - 6GB RAM or higher
