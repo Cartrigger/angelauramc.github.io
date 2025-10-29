@@ -14,21 +14,21 @@ If you want the latest and greatest to test before the official release, you can
 
 1. Start off by heading to the [Amethyst](https://https://github.com/AngelAuraMC/Amethyst-Android) repository and switching to the "Actions" tab.
 
-![](./images/Actions/android/Android-Actions-1.png)
+![](../images/Android/Actions/Android-Actions-1.png)
 
 2. Next, select "Android CI" in the workflow selection menu.
 
-![](./images/Actions/android/Android-Actions-2.png)
+![](../images/Android/Actions/Android-Actions-2.png)
 
 3. Choose a build with a green or blue checkmark next to the branch you want to download.
     - `v3_openjdk` will be the one for most people.
 
-![](./images/Actions/android/Android-Actions-3.png)
+![](../images/Android/Actions/Android-Actions-3.png)
 
 4. Under "Artifacts", choose the build type you wish to download.
     - `app-debug` will be the one for most people.
 
-![](./images/Actions/android/Android-Actions-4.png)
+![](../images/Android/Actions/Android-Actions-4.png)
 
 5. Install as any usual .apk
 :::
@@ -107,20 +107,20 @@ If you want the latest and greatest to test before the official release, you can
 
 1. Start off by heading to the [PojavLauncher iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) repository and switching to the "Actions" tab.
 
-![](./images/Actions/ios/iOS-Actions-1.png)
+![](../images/iOS/Actions/iOS-Actions-1.png)
 
 2. Next, select "Development Build" in the workflow selection menu.
 
-![](./images/Actions/ios/iOS-Actions-2.png)
+![](../images/iOS/Actions/iOS-Actions-2.png)
 
 3. Choose a build with a green or blue checkmark next to the branch you want to download.
     - `main` will be the one for most people.
 
-![](./images/Actions/ios/iOS-Actions-3.png)
+![](../images/iOS/Actions/iOS-Actions-3.png)
 
 4. Under "Artifacts", choose `net.kdt.pojavlauncher.ipa`
 
-![](./images/Actions/ios/iOS-Actions-4.png)
+![](../images/iOS/Actions/iOS-Actions-4.png)
 
 Once you have an Actions build downloaded, you can now unzip the file and use this .ipa for TrollStore or sideloading.
 :::
