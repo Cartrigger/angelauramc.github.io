@@ -6,4 +6,4 @@ Amethyst supports multiple types of accounts to sign in:
 
 (*) Microsoft Accounts only work if the Microsoft Account has Minecraft: Java Edition purchased.
 
-(^) Local Accounts only work if you have already logged into a Microsoft Account with Minecraft: Java Edition purchased.
+(^) Local Accounts work as demo accounts, unless logged into a Microsoft account with Minecraft: Java Edition purchased.
