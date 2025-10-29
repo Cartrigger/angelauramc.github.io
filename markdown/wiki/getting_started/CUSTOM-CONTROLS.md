@@ -2,21 +2,21 @@
 
 ## Android
 
- There is "Custom controls" button in the main menu, by clicking that you will be able to change you custom controls.
+ There is a "Custom controls" button in the main menu, by clicking that you will be able to change you custom controls.
 
-<img src="https://github.com/user-attachments/assets/a476f630-c3a9-4c3c-83d1-ff39454d0105" width=45% height=45%>
+<img src="images/Custom-Controls/Custom-Controls-1.jpg" width=45% height=45%>
  
  You can access the options by clicking the cogwheel at the top of the screen.
 
-<img src="https://github.com/user-attachments/assets/8209a266-524e-45e2-b841-72f1d76aea43" width=75% height=75%>
+<img src="images/Custom-Controls/Custom-Controls-2.jpg" width=75% height=75%>
 
  After clicking the cogwheel, you get a drawer with the following options:
 
-<img src="https://github.com/user-attachments/assets/d70b38b8-2396-4bfe-b405-390a369f3776" width=75% height=75%>
+<img src="images/Custom-Controls/Custom-Controls-3.jpg" width=75% height=75%>
 
- 1- Adds a button of your liking.
+ 1- Adds a button.
  
- 2- Adds a button drawer, if you press it, your buttons that you assigned will show up.
+ 2- Adds a button drawer, when pressed, your buttons that you have assigned will show up.
  
  3- Adds a joystick.
  
