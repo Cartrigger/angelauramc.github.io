@@ -4,15 +4,15 @@
 
  There is a "Custom controls" button in the main menu, by clicking that you will be able to change you custom controls.
 
-<img src="./images/android/Custom-Controls/Custom-Controls-1.jpg" width=45% height=45%>
+<img src="./images/Custom-Controls/android/Custom-Controls-1.jpg" width=45% height=45%>
  
  You can access the options by clicking the cogwheel at the top of the screen.
 
-<img src="./images/android/Custom-Controls/Custom-Controls-2.jpg" width=75% height=75%>
+<img src="./images/Custom-Controls/android/Custom-Controls-2.jpg" width=75% height=75%>
 
  After clicking the cogwheel, you get a drawer with the following options:
 
-<img src="./images/android/Custom-Controls/Custom-Controls-3.jpg" width=75% height=75%>
+<img src="./images/Custom-Controls/android/Custom-Controls-3.jpg" width=75% height=75%>
 
  1- Adds a button.
  
