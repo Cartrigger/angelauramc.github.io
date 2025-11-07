@@ -116,19 +116,11 @@ If you want the latest and greatest to test before the official release, you can
 3. Choose a build with a green or blue checkmark next to the branch you want to download.
     - `main` will be the one for most people.
 
-<<<<<<< Updated upstream
-![](./images/Actions/ios/iOS-Actions-3.png)
-
-4. Under "Artifacts", choose `net.kdt.pojavlauncher.ipa`
-
-![](./images/Actions/ios/iOS-Actions-4.png)
-=======
 ![](./images/INSTALL.md/ios/INSTALL3.png)
 
 4. Under "Artifacts", choose `net.kdt.pojavlauncher.ipa`
 
 ![](./images/INSTALL.md/ios/INSTALL4.png)
->>>>>>> Stashed changes
 
 Once you have an Actions build downloaded, you can now unzip the file and use this .ipa for TrollStore or sideloading.
 :::
