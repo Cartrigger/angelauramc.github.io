@@ -14,37 +14,21 @@ If you want the latest and greatest to test before the official release, you can
 
 1. Start off by heading to the [Amethyst](https://https://github.com/AngelAuraMC/Amethyst-Android) repository and switching to the "Actions" tab.
 
-<<<<<<< Updated upstream
-![](./images/Actions/android/Android-Actions-1.png)
-
-2. Next, select "Android CI" in the workflow selection menu.
-
-![](./images/Actions/android/Android-Actions-2.png)
-=======
 ![](./images/INSTALL.md/android/INSTALL1.png)
 
 2. Next, select "Android CI" in the workflow selection menu.
 
 ![](./images/INSTALL.md/android/INSTALL2.png)
->>>>>>> Stashed changes
 
 3. Choose a build with a green or blue checkmark next to the branch you want to download.
     - `v3_openjdk` will be the one for most people.
 
-<<<<<<< Updated upstream
-![](./images/Actions/android/Android-Actions-3.png)
-=======
 ![](./images/INSTALL.md/android/INSTALL3.png)
->>>>>>> Stashed changes
 
 4. Under "Artifacts", choose the build type you wish to download.
     - `app-debug` will be the one for most people.
 
-<<<<<<< Updated upstream
-![](./images/Actions/android/Android-Actions-4.png)
-=======
 ![](./images/INSTALL.md/android/INSTALL4.png)
->>>>>>> Stashed changes
 
 5. Install as any usual .apk
 :::
@@ -123,19 +107,11 @@ If you want the latest and greatest to test before the official release, you can
 
 1. Start off by heading to the [PojavLauncher iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) repository and switching to the "Actions" tab.
 
-<<<<<<< Updated upstream
-![](./images/Actions/ios/iOS-Actions-1.png)
-
-2. Next, select "Development Build" in the workflow selection menu.
-
-![](./images/Actions/ios/iOS-Actions-2.png)
-=======
 ![](./images/INSTALL.md/ios/INSTALL1.png)
 
 2. Next, select "Development Build" in the workflow selection menu.
 
 ![](./images/INSTALL.md/ios/INSTALL2.png)
->>>>>>> Stashed changes
 
 3. Choose a build with a green or blue checkmark next to the branch you want to download.
     - `main` will be the one for most people.
