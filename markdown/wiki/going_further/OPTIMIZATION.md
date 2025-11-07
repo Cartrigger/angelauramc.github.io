@@ -8,11 +8,11 @@ OptiFine, previously known as Optimine and OptiFog; is a Minecraft modification 
 ### Getting (and installing) OptiFine
 In Amethyst, create a new profile.
 
-<img src="./images/android/optimization/OPTIMIZATION-Optifine-1.png" width=20% height=20%>
+<img src="./images/OPTIMIZATION.md/android/OPTIMIZATION1.png" width=20% height=20%>
 
 Then Click on **Create Optfine Profile.**
 
-<img src="./images/android/optimization/OPTIMIZATION-Optifine-2.png" width=20% height=20%>
+<img src="./images/OPTIMIZATION.md/android/OPTIMIZATION2.png" width=20% height=20%>
 
 And pick your version of choice. After picking one, it's download will begin. Wait a moment and you'll be ready to use Optifine!
 
