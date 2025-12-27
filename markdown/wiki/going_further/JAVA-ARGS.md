@@ -7,7 +7,7 @@
 3. Fill in with the relevant JVM arguments you like.
 4. Finally Save the Profile by clicking on Save button.
 
-<img src="./images/JAVA-ARGS.md/android/JAVA-ARGS.png" width=20% height=20%>
+<img src="./images/JAVA-ARGS/android/JAVA-ARGS.png" width=20% height=20%>
 
 
 

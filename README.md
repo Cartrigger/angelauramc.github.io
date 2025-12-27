@@ -27,12 +27,12 @@ The repository is structured like so
         │   └── ios
         ├── getting_started
         │   └── images
-        │       └── INSTALL.md
+        │       └── INSTALL
         │           ├── android
         │           └── ios
         └── going_further
             └── images
-                └── MODPACKS.md
+                └── MODPACKS
                     ├── android
                     └── ios
 

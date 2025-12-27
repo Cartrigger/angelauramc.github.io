@@ -14,21 +14,21 @@ If you want the latest and greatest to test before the official release, you can
 
 1. Start off by heading to the [Amethyst](https://https://github.com/AngelAuraMC/Amethyst-Android) repository and switching to the "Actions" tab.
 
-![](./images/INSTALL.md/android/INSTALL1.png)
+![](./images/INSTALL/android/INSTALL1.png)
 
 2. Next, select "Android CI" in the workflow selection menu.
 
-![](./images/INSTALL.md/android/INSTALL2.png)
+![](./images/INSTALL/android/INSTALL2.png)
 
 3. Choose a build with a green or blue checkmark next to the branch you want to download.
     - `v3_openjdk` will be the one for most people.
 
-![](./images/INSTALL.md/android/INSTALL3.png)
+![](./images/INSTALL/android/INSTALL3.png)
 
 4. Under "Artifacts", choose the build type you wish to download.
     - `app-debug` will be the one for most people.
 
-![](./images/INSTALL.md/android/INSTALL4.png)
+![](./images/INSTALL/android/INSTALL4.png)
 
 5. Install as any usual .apk
 :::
@@ -107,20 +107,20 @@ If you want the latest and greatest to test before the official release, you can
 
 1. Start off by heading to the [PojavLauncher iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) repository and switching to the "Actions" tab.
 
-![](./images/INSTALL.md/ios/INSTALL1.png)
+![](./images/INSTALL/ios/INSTALL1.png)
 
 2. Next, select "Development Build" in the workflow selection menu.
 
-![](./images/INSTALL.md/ios/INSTALL2.png)
+![](./images/INSTALL/ios/INSTALL2.png)
 
 3. Choose a build with a green or blue checkmark next to the branch you want to download.
     - `main` will be the one for most people.
 
-![](./images/INSTALL.md/ios/INSTALL3.png)
+![](./images/INSTALL/ios/INSTALL3.png)
 
 4. Under "Artifacts", choose `net.kdt.pojavlauncher.ipa`
 
-![](./images/INSTALL.md/ios/INSTALL4.png)
+![](./images/INSTALL/ios/INSTALL4.png)
 
 Once you have an Actions build downloaded, you can now unzip the file and use this .ipa for TrollStore or sideloading.
 :::

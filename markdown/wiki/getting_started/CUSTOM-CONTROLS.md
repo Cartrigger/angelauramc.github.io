@@ -4,15 +4,15 @@
 
  There is a "Custom controls" button in the main menu, by clicking that you will be able to change you custom controls.
 
-<img src="./images/CUSTOM-CONTROLS.md/android/CUSTOM-CONTROLS1.jpg" width=45% height=45%>
+<img src="./images/CUSTOM-CONTROLS/android/CUSTOM-CONTROLS1.jpg" width=45% height=45%>
  
  You can access the options by clicking the cogwheel at the top of the screen.
 
-<img src="./images/CUSTOM-CONTROLS.md/android/CUSTOM-CONTROLS2.jpg" width=75% height=75%>
+<img src="./images/CUSTOM-CONTROLS/android/CUSTOM-CONTROLS2.jpg" width=75% height=75%>
 
  After clicking the cogwheel, you get a drawer with the following options:
 
-<img src="./images/CUSTOM-CONTROLS.md/android/CUSTOM-CONTROLS3.jpg" width=75% height=75%>
+<img src="./images/CUSTOM-CONTROLS/android/CUSTOM-CONTROLS3.jpg" width=75% height=75%>
 
  1- Adds a button.
  
@@ -32,19 +32,19 @@
 
 To start editing your controlmap in iOS, head to top-left and press the sidebar. (shown in image)
 
-<img src="./images/CUSTOM-CONTROLS.md/ios/CUSTOM-CONTROLS1.png" width=45% height=45%>
+<img src="./images/CUSTOM-CONTROLS/ios/CUSTOM-CONTROLS1.png" width=45% height=45%>
 
 Press the custom controls button.
 
-<img src="./images/CUSTOM-CONTROLS.md/ios/CUSTOM-CONTROLS2.png" width=45% height=45%>
+<img src="./images/CUSTOM-CONTROLS/ios/CUSTOM-CONTROLS2.png" width=45% height=45%>
 
 After that, long press anywhere for more options.
 
-<img src="./images/CUSTOM-CONTROLS.md/ios/CUSTOM-CONTROLS3.png" width=75% height=75%>
+<img src="./images/CUSTOM-CONTROLS/ios/CUSTOM-CONTROLS3.png" width=75% height=75%>
 
 Now you will get a pop-up with the following options:
 
-<img src="./images/CUSTOM-CONTROLS.md/ios/CUSTOM-CONTROLS4.png" width=75% height=75%>
+<img src="./images/CUSTOM-CONTROLS/ios/CUSTOM-CONTROLS4.png" width=75% height=75%>
 
 1- Exits the controlmap editor.
 
