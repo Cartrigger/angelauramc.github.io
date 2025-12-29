@@ -1,10 +1,10 @@
-# Contributing to the translation of PojavLauncher
+# Contributing to the translation of Amethyst
 
 * For the convenience of translators, we use [Crowdin](https://crowdin.com). 
 
 * Anyone can join the project on Crowdin and start translating right now.
 
-[Join the project](https://crwd.in/pojavlauncher)
+[Join the project](https://crowdin.com/project/pojavlauncher)
 
 ## Getting started for newcomers on Crowdin
 
@@ -19,7 +19,7 @@
 ## What to translate and what not to translate?
 
 ::: warning
-Things not to translate: PojavLauncher, codes like ```<1>, </0>, \n, %s, %.2f, %1$s, %@```, arrows like ◀, 
+Things not to translate: Amethyst, codes like ```<1>, </0>, \n, %s, %.2f, %1$s, %@```, arrows like ◀, 
 :::
 
 * Except for the list above, you can translate anything else.

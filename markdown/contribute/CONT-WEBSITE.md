@@ -7,7 +7,7 @@ Vuepress is a static website generator, although it looks really good. It takes 
 
 ## How do I contribute?
 Simple: 
-* Fork [this repository](https://github.com/PojavLauncherTeam/pojavlauncherteam.github.io).
+* Fork [this repository](https://github.com/AngelAuraMC/angelauramc.github.io).
 
 * Click on "Edit this page" on any page, then edit the markdown file with your properly tuned syntax (using Discord? You already know Markdown), then save and commit. It's that easy. 
 
@@ -24,7 +24,7 @@ You're allowed to pretty much change anything, as long as it follows all of thes
 
 - **Do not** make any promises unless you were given permission from the developers.
 - **Do not** spread misinformation and inaccurate content.
-- Although you can change everything else, **do not touch .vuepress/config.js**. If you need to change something in it, let Crystall1nedev or CriticalRange know.
+- Although you can change everything else, **do not touch .vuepress/config.js**. If you need to change something in it, let Crystall1nedev or Tomikun know.
 - Never, never ever ever merge `gh-pages` and `main` into each other. gh-pages is the **result**, main is the **rough draft**.
 - **Do not** delete any dot files (.nvmrc, .gitattributes, etc)
 
