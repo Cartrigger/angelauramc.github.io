@@ -16,7 +16,7 @@
 
  1- Adds a button.
  
- 2- Adds a button drawer, when pressed, your buttons that you have assigned will show up.
+ 2- Adds a button drawer that when pressed, buttons that were assigned to it will toggle visibility.
  
  3- Adds a joystick.
  
