@@ -14,24 +14,35 @@ The repository is structured like so
 ```
 .
 ├── archived_pages
-├── changelogs
 └── markdown
-    ├── .vuepress
-    │    └── config
     ├── about
     ├── contribute
     ├── patchnotes
+    │   └── changelogs
     └── wiki
         ├── faq
         │   ├── android
         │   └── ios
         ├── getting_started
         │   └── images
-        │       └── Actions
+        │       ├── Actions
+        │       │   ├── android
+        │       │   └── ios
+        │       ├── CUSTOM-CONTROLS
+        │       │   ├── android
+        │       │   └── ios
+        │       └── INSTALL
         │           ├── android
         │           └── ios
         └── going_further
-
+            └── images
+                ├── JAVA-ARGS
+                │   └── android
+                ├── MODPACKS
+                │   ├── android
+                │   └── ios
+                └── OPTIMIZATION
+                    └── android
 ```
 
 * `archived_pages` - Contains pages that are no longer in use but we keep around for historical reasons.

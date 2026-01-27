@@ -1,7 +1,7 @@
 {
   "name": "AAMC Wiki",
   "version": "1.1.0",
-  "description": "angelauramc.github.io",
+  "description": "wiki.angelauramc.dev",
   "scripts": {
     "start": "vuepress dev markdown",
     "build": "vuepress build markdown"

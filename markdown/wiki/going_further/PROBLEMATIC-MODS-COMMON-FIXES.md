@@ -64,6 +64,6 @@ The script can be found [here](https://github.com/sa1672ndo/vs2termux).
 
 ## iOS
 
-As of 2025/04/19, Valkyrien Skies 2 can run natively on iOS, due to the implementation of [dylib patching for game dlopen calls](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/commit/ec04885ce5a6d5921db4b162e5e514bc4b035db5). A developer build installation is required from the [actions tab](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/actions) for now, though.
+As of 2025/04/19, Valkyrien Skies 2 can run natively on iOS, due to the implementation of [dylib patching for game dlopen calls](https://github.com/AngelAuraMC/Amethyst-iOS/commit/ec04885ce5a6d5921db4b162e5e514bc4b035db5). A developer build installation is required from the [actions tab](https://github.com/AngelAuraMC/Amethyst-iOS/actions) for now, though.
 
 **credits to [kiokori-git](https://github.com/kiokori-git)**

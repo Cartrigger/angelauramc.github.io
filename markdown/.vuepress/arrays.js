@@ -6,7 +6,7 @@ const android_FAQ = {
   path: "android", // Do not add a trailing slash here unless this also has a child nested in it with its own path
   children: [
     "PARSINGERROR", // "Error while parsing the package" error fix.
-    "REFUSALOFINSTALL", // "App not installed" error fix (very uncommon).
+    // "REFUSALOFINSTALL", // "App not installed" error fix (very uncommon).
     "CANTFINDLOG", // Can't find the log file (non-root).
     "CANTFINDMINECRAFT", // Can't find .minecraft (non-root).
     "ZINKNOTWORKING", // Zink doesn't work.
@@ -124,9 +124,9 @@ export const GroupOrder = [
 /** This is just the regular vuepress nav configuration but it's in here instead of config.js because it looks nicer that way */
 export const NavBar = [
   { text: "Wiki", link: "/wiki/" },
-  { text: "About Amethyst", link: "/about/DEVICES" },
-  { text: "Contributing", link: "/contribute/CONT-TRANSLATIONS" },
-  { text: "Recent Updates", link: "/patchnotes/IOS-SUPPORT" },
+  { text: "About Amethyst", link: "/about/NOTE-FROM-EVA" },
+  { text: "Contributing", link: "/contribute/CONT-WEBSITE" },
+  { text: "Recent Updates", link: "/patchnotes/changelogs/ANDROID" },
 ];
 
 /** The logic needed to parse all of this for dynamic sidebar generation looks awful if it was defined here so it isn't. See ./bars.js */
